@@ -19,5 +19,3 @@
 - cd tools
 - npm i (node 모듈 설치)
 - npm run build --demo1
-# 1gram_php_prototype
-# 1gram_php_prototype
